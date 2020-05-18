@@ -14,9 +14,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/lucaslovato/electron-webview-example 
 # Go into the repository
-cd 
+cd electron-webview-example
 # Install dependencies
 npm install
 # Run the app
